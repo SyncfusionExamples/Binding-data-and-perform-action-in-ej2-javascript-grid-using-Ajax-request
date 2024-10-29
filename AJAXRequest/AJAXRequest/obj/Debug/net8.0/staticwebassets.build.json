@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "buMNc6L6P675ogjIDqvZhnM0WK1Ilqf8OcHSO1OPpYM=",
+  "Source": "AJAXRequest",
+  "BasePath": "_content/AJAXRequest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AJAXRequest\\wwwroot",
+      "Source": "AJAXRequest",
+      "ContentRoot": "D:\\ts\\New folder (4)\\ajaxjs\\AJAXRequest\\AJAXRequest\\wwwroot\\",
+      "BasePath": "_content/AJAXRequest",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ts\\New folder (4)\\ajaxjs\\AJAXRequest\\AJAXRequest\\wwwroot\\index.html",
+      "SourceId": "AJAXRequest",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ts\\New folder (4)\\ajaxjs\\AJAXRequest\\AJAXRequest\\wwwroot\\",
+      "BasePath": "_content/AJAXRequest",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\ts\\New folder (4)\\ajaxjs\\AJAXRequest\\AJAXRequest\\wwwroot\\js\\index.js",
+      "SourceId": "AJAXRequest",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ts\\New folder (4)\\ajaxjs\\AJAXRequest\\AJAXRequest\\wwwroot\\",
+      "BasePath": "_content/AJAXRequest",
+      "RelativePath": "js/index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\index.js"
+    }
+  ]
+}
